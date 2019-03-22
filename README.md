@@ -6,8 +6,8 @@
 ### Chris Merritt
 
 ### Links and Resources
-* [Pull Request]()
-* [travis]()
+* [Pull Request](https://github.com/401-advanced-javascript-merritt/lab-04/pull/1)
+* [travis]([![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-04.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-04))
 
 #### Documentation
 * [jsdoc](/docs/index.html)
