@@ -1,0 +1,1 @@
+['tim','jack','joe'].forEach(i=>{console.log(i.toString());});
