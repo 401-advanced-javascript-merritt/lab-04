@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [Pull Request](https://github.com/401-advanced-javascript-merritt/lab-04/pull/1)
-* [travis]([![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-04.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-04))
+* [![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-04.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-04)
 
 #### Documentation
 * [jsdoc](/docs/index.html)
@@ -26,3 +26,4 @@
 * `npm run tests`
 
 #### UML
+[!UML](https://github.com/401-advanced-javascript-merritt/lab-04/blob/workingLab4/lab4wb.JPG)
